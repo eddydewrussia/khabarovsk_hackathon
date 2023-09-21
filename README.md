@@ -48,3 +48,6 @@ https://github.com/pclausen/obj2png
   
 
 я спать
+  
+  картинка в hnml какая-то получилась....  
+  
